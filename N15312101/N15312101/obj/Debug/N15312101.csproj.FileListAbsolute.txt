@@ -1,0 +1,7 @@
+C:\Users\MEGAS\Desktop\N15312101\N15312101\bin\Debug\N15312101.exe.config
+C:\Users\MEGAS\Desktop\N15312101\N15312101\bin\Debug\N15312101.exe
+C:\Users\MEGAS\Desktop\N15312101\N15312101\bin\Debug\N15312101.pdb
+C:\Users\MEGAS\Desktop\N15312101\N15312101\obj\Debug\N15312101.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Desktop\N15312101\N15312101\obj\Debug\N15312101.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Desktop\N15312101\N15312101\obj\Debug\N15312101.exe
+C:\Users\MEGAS\Desktop\N15312101\N15312101\obj\Debug\N15312101.pdb
